@@ -16,5 +16,8 @@ span{
   font-weight: bold;
 }
 a:hover {
-  background-color: yellow;
+  background-color: gold;
+}
+.bold{
+  background-color: gold;
 }
