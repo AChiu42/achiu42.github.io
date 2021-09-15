@@ -32,6 +32,11 @@ body{
   font-family: Arial, Helvetica, sans-serif;
 }
 .caption{
-  font-size: large;
+  font-size: larger;
 }
-
+.header{
+  vertical-align:middle;
+}
+.unsure{
+  font-size: smaller;
+}
