@@ -30,3 +30,7 @@ a:hover {
 body{
   font-family: Arial, Helvetica, sans-serif;
 }
+.center{
+  text-align: center;
+  border: 3px black;
+}
