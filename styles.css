@@ -12,3 +12,9 @@ li.menu{
     background-color: maroon;
     width: 150px;
 }
+span{
+  font-weight: bold;
+}
+a:hover {
+  background-color: yellow;
+}
